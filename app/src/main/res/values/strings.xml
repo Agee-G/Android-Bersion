@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">versions</string>
+    <string name="sometest">这个手机系统的固件版本</string>
+    <string name="show_answer_button">点击</string>
+    <string name="ice1">Android 4.0</string>
+    <string name="ice2">Android 4.0.3</string>
+    <string name="JB1">Android 4.1</string>
+    <string name="JB2">Android 4.2</string>
+    <string name="JB3">Android 4.3</string>
+    <string name="KK1">Android 4.4</string>
+    <string name="LL1">Android 5.0</string>
+    <string name="LL2">Android 5.1</string>
+    <string name="M1">Android 6.0</string>
+
+
+</resources>
